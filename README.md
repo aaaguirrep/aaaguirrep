@@ -34,11 +34,9 @@ Hi, I'm Arsenio Aguirre, a passionate cybersecurity professional.
 ***Note***: *Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github.*
 
 <a href="https://github.com/aaaguirrep"><img align="center" src="https://github-readme-stats.vercel.app/api?username=aaaguirrep&show_icons=true&include_all_commits=true&theme=dark" alt="Arsenio's github stats" /></a>
-
 <a href="https://github.com/aaaguirrep"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaaguirrep&layout=compact&theme=dark"/></a>
 
 <a href="https://github.com/aaaguirrep/pentest"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aaaguirrep&repo=pentest&theme=dark" /></a>
-
 <a href="https://github.com/aaaguirrep/vps-docker-for-pentest"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aaaguirrep&repo=vps-docker-for-pentest&theme=dark"/></a>
 
 <a href="https://github.com/aaaguirrep/docker-pentest-config"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aaaguirrep&repo=docker-pentest-config&theme=dark"/></a>
