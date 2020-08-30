@@ -9,7 +9,7 @@
   <img align="left" alt="Arsenio Aguirre | Twitter" width="21px" src="assets/twitter.svg" />
 </a>
 <a href="https://discord.gg/2uBfu8E">
-  <img align="left" alt="Arsenio's Discord" width="21px" src="assets/discord-round.svg" />
+  <img align="left" alt="Arsenio Aguirre | Discord" width="21px" src="assets/discord.svg" />
 </a>
 
 <br />
