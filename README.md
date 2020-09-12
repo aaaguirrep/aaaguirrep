@@ -18,7 +18,7 @@
 Hi, I'm Arsenio Aguirre, a passionate cybersecurity professional.
 
 - 🔭 I’m Identity and Access Management expert.
-- 🌱 I’m currently learning pentesting.
+- 🌱 I’m currently learning Offensive Security.
 - :handshake: I’m looking to collaborate on [Offensive Docker](https://github.com/aaaguirrep/offensive-docker).
 - 💬 Ask me about anything [here](https://discord.gg/2uBfu8E).
 
